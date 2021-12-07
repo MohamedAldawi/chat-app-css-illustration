@@ -1,6 +1,6 @@
 # Frontend Mentor - chat-app-css-illustration
 
-This is a solution for the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
+This is a solution for the [Chat app CSS illustration challenge hub](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
 ## Table of contents
 
