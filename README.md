@@ -24,7 +24,7 @@ The user should be able to:
 
 ### Screenshots
 
-![](./design/desktop-design.jpg)   ![](./design/active-states.jpg) 
+![](./design/Desktop.jpg)
 
 ### Links
 
@@ -36,9 +36,10 @@ The user should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Sass preprocessor to generate Css
-- Flexbox
-- Desktop-first workflow
+- Sass preprocessor to generate CSS
+- Flexbox System
+- Grid System
+- Mobile-first workflow
 
 ### Useful resources
 
