@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+
+:root {
+    
+//Text
+--color-Pale-Violet: hsl(276, 100%, 81%);
+--color-Moderate-Violet: hsl(276, 55%, 52%);
+--color-Desaturated-Dark-Violet: hsl(271, 15%, 43%);
+--color-Grayish-Blue: hsl(206, 6%, 79%);
+--color-VeryDark-Desaturated-Violet: hsl(271, 36%, 24%);
+--Dark-Grayish-Violet: hsl(270, 7%, 64%);
+
+//Gradients
+--color-Light-Magenta: hsl(293, 100%, 63%);
+--color-Light-Violet: hsl(264, 100%, 61%);
+
+//
+--color-White: hsl(0, 0%, 100%);
+--color-Light-Grayish-Violet: hsl(270, 20%, 96%);
+--color-VeryLight-Magenta: hsl(289, 100%, 72%);
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+body {
+    width: 100%;
+    min-height: 60vh;
+    overflow-x: hidden;
+    font-size: 62.5%; // 1rem = 10px; 10px/16px (browser default) = 62.5%
+}
