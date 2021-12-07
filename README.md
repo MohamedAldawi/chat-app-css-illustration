@@ -28,7 +28,7 @@ The user should be able to:
 ### Links
 
 - Solution URL: [Github solution URL](https://github.com/MohamedAldawi/NFT-preview-card-component)
-- Live demo URL: [Netlify URL](https://aldawi-web-frontend-mentor-card.netlify.app/)
+- Live demo URL: [Netlify URL](https://aldawi-chat-app-css-illustration.netlify.app/)
 
 ## My process
 
