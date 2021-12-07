@@ -20,11 +20,10 @@ This is a solution for the [NFT preview card component challenge on Frontend Men
 The user should be able to:
 
 - View the layout depending on their device's screen size.
-- See active states for interactive elements.
 
 ### Screenshots
 
-![](./design/Desktop.jpg)
+![](./design/Desktop.png)
 
 ### Links
 
